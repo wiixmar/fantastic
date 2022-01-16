@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background:rgb(195, 232, 243);
+    padding:8px;
+}
+
+h1 {
+    color:darkblue;
+    font-size:28px;
+    text-align: center;
+}
+
+footer p {
+    border:1px solid grey;
+    padding:8px;
+}
+
+nav {
+    border:1px solid grey;
+    padding:10px;
+    margin:5px;
+}
+ 
+nav a {
+    text-decoration:none;
+    padding-right:60px;
+    color:grey;
+    
+}
+
